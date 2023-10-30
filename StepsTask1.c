@@ -1,7 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-#pragma warning(disable:4996)  //忽略4996系统认为代码不安全的错误
 
 // Define an appropriate struct
 typedef struct {
